@@ -1,5 +1,39 @@
 # CARADISIAC
 
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+
+* Fork the project via `github`
+* Clone your forked repository project `https://github.com/YOUR_USERNAME/caradisiac`
+
+```sh
+❯ cd /path/to/workspace
+❯ git clone git@github.com:YOUR_USERNAME/caradisiac.git
+```
+* On the terminal of the project, you need to go on the caradisiac directory
+```sh
+❯ cd /path/to/cash
+```
+## Prerequisites
+
+You need to install some dependencies so you can type on the terminal
+
+```sh
+❯ npm install
+```
+## Running the project
+
+To run the project you need to type 
+```sh
+❯ npm start
+```
+This will lunch you a html page where you can have the possibiliy to index data into Elasticsearch by pressiong the button "Populate" & you can get the list of the 10 cars with the higher car boot volume by pressing SUV.
+
+
+
+
 > Drive comfortably
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -8,7 +42,7 @@
 
 - [Introduction](#introduction)
 - [Objective - Workshop in 1 sentence](#objective---workshop-in-1-sentence)
-- [How to do that?](#how-to-do-that)
+- [How to do that?]n(#how-to-do-that)
   - [Stack](#stack)
 - [Just tell me what to do](#just-tell-me-what-to-do)
 - [Examples of steps to do](#examples-of-steps-to-do)
